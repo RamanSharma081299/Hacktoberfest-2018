@@ -1,5 +1,6 @@
 # Hacktoberfest-2018
 A repository for beginners to create their first Pull Request. 
+Lund loge?
 
 # Steps to Create your first PR and get Official Hacktoberfest merchandise for free.
 ## Step 0: Create a [Github](https://github.com/) account for free [here](https://github.com/).
